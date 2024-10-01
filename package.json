@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "method-override": "^3.0.0",
+    "mysql2": "^3.11.3",
+    "nodemon": "^3.1.7",
+    "sequelize": "^6.37.3",
+    "sequelize-cli": "^6.6.2"
+  },
+  "name": "be-muhammad-irfansyah",
+  "description": "## Instructions 1.\tFor preparations, you must have Badr Interactive Gitlab accounts to do this challenge. 2.\tKlik the visible project(which is has your name) in your account hompage. 3.\tClone that project into your local machine. 4.  Finish your challenge following the Requirement below. 5.  Push your challenge into origin/main branch. 6.  You are done, challenge has been submitted.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
